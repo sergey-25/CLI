@@ -1,4 +1,4 @@
-# nodejs-hw-01
+# CLI приложение
 
 https://ibb.co/h7fwfCY
 https://ibb.co/VMqhP6W
